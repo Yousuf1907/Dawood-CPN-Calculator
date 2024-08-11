@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 
 st.title("CPN Calculator")
+# st.navigation([st.Page("2_📖_Instructions.py"), st.Page("3_About Me.py")])
 
 Matric_marks = st.number_input("Please enter your Matric(X) Percentage: ")
 Inter_Marks = st.number_input("Please enter your Intermediate (XII) Percentage: ")

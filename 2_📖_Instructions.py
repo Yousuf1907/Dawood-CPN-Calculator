@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title('How to use this App?')
 
-# st.navigation([st.Page("App.py"), st.Page("3_About Me.py")])
+st.navigation([st.Page("App.py"), st.Page("3_About Me.py")])
 st.write('''This App will help you calculate how much you need to score in the Entry Test.\n
 The Formula to calculate CPN: 10 % of your Matric Percentage + 30 % of your Intermediate Percentage + 60% of test marks \n
 

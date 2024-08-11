@@ -3,7 +3,7 @@ import streamlit as st
 st.title("About Me")
 
 st.write("I'm Muhammad Yousuf Soharwardi, A Student of BS Computer Science, Batch 2022, At Dawood University")
-st.write("I am an Experienced Data Scientist who builds Machine & Deep Learning Models.  I like building intelligent systems and helping others learn Data Science")
+st.write("I am an Experienced Data Scientist who builds Machine & Deep Learning Models. I like building intelligent systems and helping others learn Data Science")
 
 st.write("### Connect with me:")
 
